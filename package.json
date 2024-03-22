@@ -1,0 +1,25 @@
+{
+  "name": "quiacupiditate",
+  "version": "1.9.0",
+  "description": "Ephemeral key pair web3 provider",
+  "main": "index.js",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "eth-sig-util": "^2.5.3",
+    "ethereumjs-wallet": "^0.6.3",
+    "ethers": "^4.0.46",
+    "officiisdolores": "^1.0.1",
+    "quiaut": "^1.0.0",
+    "web3-provider-engine": "^15.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WymanMills/quiacupiditate.git"
+  },
+  "author": "SoniaBoyer",
+  "license": "MIT",
+  "homepage": "https://github.com/WymanMills/quiacupiditate.git"
+}
